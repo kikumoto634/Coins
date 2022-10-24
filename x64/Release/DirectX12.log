@@ -1,0 +1,55 @@
+﻿  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\BasicPS.cso
+  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\BasicVS.cso
+  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\FBXPS.cso
+  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\FBXVS.cso
+  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\SpritePS.cso
+  compilation object save succeeded; see D:\3Dゲーム\Coins\後半\Coins\x64\Release\SpriteVS.cso
+  Area01.cpp
+  Area02.cpp
+  Area03.cpp
+  Area04.cpp
+  DebugArea.cpp
+  Camera.cpp
+  Coin.cpp
+  CollisionManager.cpp
+  DebugArea02.cpp
+  DebugText.cpp
+  DirectXCommon.cpp
+  DirectXGame.cpp
+  FbxLoader.cpp
+  GameBase.cpp
+  GeometryManager.cpp
+  GeometryObject3D.cpp
+  Goal.cpp
+  Ground.cpp
+  Input.cpp
+  main.cpp
+  コンパイル中...
+  Matrix4.cpp
+  Model.cpp
+  Object3D.cpp
+  obstacle.cpp
+  Player.cpp
+  Result.cpp
+  SampleArea.cpp
+  Select.cpp
+  Skydome.cpp
+  slideWall.cpp
+  SoundManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  Title.cpp
+  Tutorial01.cpp
+  Tutorial02.cpp
+  Tutorial03.cpp
+  Tutorial04.cpp
+  Tutorial05.cpp
+  Vector2.cpp
+  コンパイル中...
+  Vector3.cpp
+  WinApp.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 2842 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  DirectX12.vcxproj -> D:\3Dゲーム\Coins\後半\Coins\x64\Release\DirectX12.exe

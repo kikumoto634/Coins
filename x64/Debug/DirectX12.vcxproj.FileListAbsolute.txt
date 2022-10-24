@@ -1,0 +1,4 @@
+C:\Users\kkmtm\Desktop\Coins\Coins\x64\Debug\DirectX12.exe
+C:\Users\kkmtm\Desktop\Coins - コピー\Coins\x64\Debug\DirectX12.exe
+C:\Users\kkmtm\Desktop\Coins\x64\Debug\DirectX12.exe
+D:\3Dゲーム\Coins\後半\Coins\x64\Debug\DirectX12.exe

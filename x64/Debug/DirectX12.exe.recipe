@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\DirectX12.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\BasicPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\BasicVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\FBXPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\FBXVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\SpritePS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\3Dゲーム\Coins\後半\Coins\x64\Debug\SpriteVS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
