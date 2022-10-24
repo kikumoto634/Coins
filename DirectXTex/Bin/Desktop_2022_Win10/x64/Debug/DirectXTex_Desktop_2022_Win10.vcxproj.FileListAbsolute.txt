@@ -1,0 +1,4 @@
+C:\Users\kkmtm\Desktop\Coins\Coins\DirectXTex\Bin\Desktop_2022_Win10\x64\Debug\DirectXTex.lib
+C:\Users\kkmtm\Desktop\Coins - コピー\Coins\DirectXTex\Bin\Desktop_2022_Win10\x64\Debug\DirectXTex.lib
+C:\Users\kkmtm\Desktop\Coins\DirectXTex\Bin\Desktop_2022_Win10\x64\Debug\DirectXTex.lib
+D:\3Dゲーム\Coins\後半\Coins\DirectXTex\Bin\Desktop_2022_Win10\x64\Debug\DirectXTex.lib
